@@ -6,8 +6,7 @@ div{
 	background-color:lightblue;
 	width:200px;
 	height:200px;
-	border: 2px;
-	border:solid black;
+	border: 2px solid black;
 	display: flex;
     align-items: center;
 	justify-content:center;
@@ -16,6 +15,4 @@ div{
 
 span{
 	  color: purple;
-      font-size: 18px;
-      font-weight: bold;
 }
